@@ -2,6 +2,7 @@
 name = "amahi"
 version = "0.1.0"
 edition = "2021"
+description = "Rust TDD test project"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
